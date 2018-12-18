@@ -1,0 +1,2 @@
+# AndroidScreenRecordTool
+Python写的Android屏幕录制工具并转换成gif
